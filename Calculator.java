@@ -5,6 +5,7 @@ class Calculator{
  String operation;
 
 Calculator(){
+   System.out.println("hello from calculator class ");
 }
 
 Calculator(int num1, int num2,String operation)
