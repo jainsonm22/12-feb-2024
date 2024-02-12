@@ -44,6 +44,9 @@ default :
 }
 
 public void pritResult(){
+   
+System.out.println("hello from print result method");
+
 System.out.println("you have performed :"+operation+"  your result= "+result);
 
 }
