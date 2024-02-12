@@ -6,7 +6,7 @@ class Calculator{
 
 Calculator(){
    System.out.println("hello from calculator class ");
-   System.out.println("Rhis is just simple class to understand the switch statement");
+   System.out.println("This is just simple class to understand the switch statement");
    
 }
 
